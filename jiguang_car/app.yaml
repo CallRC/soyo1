@@ -1,0 +1,13 @@
+id: jgcar
+name: jgcar
+version: 1.0.2
+author: dp
+icon: ''
+desc: jgcar
+files:
+  - micu_uart_lib\__init__.py
+  - micu_uart_lib\config.py
+  - micu_uart_lib\simple_uart.py
+  - micu_uart_lib\utils.py
+  - app.yaml
+  - main.py
